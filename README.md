@@ -10,7 +10,7 @@ Melalui repositori ini, saya mendemonstrasikan kemampuan *end-to-end* siklus hid
 
 ## 🎓 Sertifikasi & Pencapaian
 * **Sertifikat Penyelesaian:** [🔗 Klik di sini untuk melihat Sertifikat Data Analysis Bootcamp Saya](https://drive.google.com/file/d/1-s_OocXQW8Z6HutmvMr-kD0uN9WD0B38/view?usp=drive_link)
-* **Institusi:** MySkill.id
+* **Institusi:** [MySkill.id](https://myskill.id)
 
 ---
 
