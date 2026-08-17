@@ -2,7 +2,7 @@
 
 Selamat datang di repositori portofolio Data Analytics saya! 👋 
 
-Saya adalah **Mahasiswa Semester 8 Fakultas Ilmu Komputer Jurusan Informatika di Universitas Amikom Yogyakarta**. Repositori ini merupakan etalase perjalanan komprehensif saya dalam mengasah keahlian sebagai seorang Data Analyst, merangkum berbagai studi kasus industri nyata yang saya selesaikan selama mengikuti **Intensive Bootcamp Data Analysis di MySkill**.
+Saya adalah **Lulusan Mahasiswa Fakultas Ilmu Komputer Jurusan S1 Informatika di Universitas Amikom Yogyakarta**. Repositori ini merupakan etalase perjalanan komprehensif saya dalam mengasah keahlian sebagai seorang Data Analyst, merangkum berbagai studi kasus industri nyata yang saya selesaikan selama mengikuti **Intensive Bootcamp Data Analysis di MySkill**.
 
 Melalui repositori ini, saya mendemonstrasikan kemampuan *end-to-end* siklus hidup data: mulai dari merumuskan masalah bisnis, mengelola *database* menggunakan SQL, membersihkan dan menganalisis data dengan Python, hingga menyajikannya dalam bentuk *Interactive Dashboard*.
 
