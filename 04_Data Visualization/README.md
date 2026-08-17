@@ -15,7 +15,7 @@ Di sini, saya merangkum penyelesaian *Mini Task 12*, di mana saya merancang sebu
 ## 🗂️ Rincian Proyek & Portfolio
 
 ### 1️⃣ Visualisasi Data Komprehensif (Basic Data Viz)
-📄 **File:** `Mini Task 12 - Dashboard Analytics.pdf` & `image_313d00.png`
+📄 **File:** `Mini Task 12 - Dashboard Analytics.pdf` & `Mini Task 12 - Dashboard Analytics.jpg`
 
 Langkah pertama dalam komunikasi data adalah memilih jenis grafik yang tepat untuk setiap metrik bisnis. Pada bagian ini, saya membangun:
 * **Time-Series Analysis:** Menggunakan *Line Chart* (Trend of Sales per Quarter) untuk memantau pergerakan pendapatan dari waktu ke waktu dan mengidentifikasi anomali musiman.
